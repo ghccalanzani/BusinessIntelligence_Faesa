@@ -1,4 +1,4 @@
-# Avaliação C1 de BusinessIntelligence
+# Avaliação C1 de Business Intelligence
  
 Para executar o projeto primeiro é necessário possuir o Jupyter Notebook e o Python 3 instalados na máquina.
 Além disso, é necessário garantir que o Pandas está instalado:
